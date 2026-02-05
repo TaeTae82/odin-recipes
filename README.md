@@ -1,1 +1,1 @@
-# odin-recipes
+First html project: learning to create files using CLI and how to use git. 
