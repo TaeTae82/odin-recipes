@@ -1,0 +1,70 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: burlywood;
+}
+
+h1 {
+    border-bottom: 1px solid black;
+    margin: 10px auto;
+    text-align: center;
+    font-size: 3em;
+}
+
+ul {
+    
+    list-style-type: none;
+    padding: 0;
+    margin: 0 5px;
+}
+
+.recipe {
+    padding: 0 auto;
+    margin-top: 10px;
+}
+
+.garlic {
+    text-align: left;
+    padding-left: 0;
+}
+
+a#garlic {
+    color: rgb(165, 42, 42);
+    font-family: 'Verdana', sans-serif;
+    font-style: italic;
+    font-size: 1.3rem;
+    text-decoration: none;
+    font-weight: bolder; 
+}
+
+
+.guacamole{
+    text-align: center;
+}
+
+a#guacamole {
+    color: rgb(1, 77, 1);
+    font-family: 'Verdana', sans-serif;
+    font-style: italic;
+    font-size: 1.3rem;
+    text-decoration: none;
+    font-weight: bolder; 
+}
+
+.cabbage {
+    text-align: right;
+}
+
+a#cabbage {
+    color: rgb(92, 105, 60);
+    font-family: 'Verdana', sans-serif;
+    font-style: italic;
+    font-size: 1.3rem;
+    text-decoration: none;
+    font-weight: bolder; 
+}
+
+
